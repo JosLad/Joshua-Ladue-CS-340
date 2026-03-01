@@ -1,1 +1,7 @@
 # Joshua-Ladue-CS-340
+
+A good way to write programs that are maintainable, readable, and adaptable is to make sure thatt you are writing methods that can be called multiple times. This saves a lot of the headache of having to read the same blocks of code over and over again when you can just call the method instead. For the purposes of this course, this was the main strategy for maintainable code. The Create, Read, Update, and Delete functions can and are called in order to make the program work. In the future I could potentially use this CRUD python module for any project in the future that uses a database.
+
+I would say that my approach on this assignment was pretty similar to my regular approach when coding. What I usually do is I will code in segments and test it to make sure nothing goes wrong, and hopefully coding in segments can catch any errors early instead of waiting for a potential snowball of other errors that can be caused and have to be fixed. A technique I could use more in the future for other databases is to just be more organized with my code and more detailed in my comments.
+
+Simply put, the basic job of a computer scientist is to code various programs for a client or oneself based on the specifications listed out to them. Computer scientists can help companies like Grazioso by coding databases and other programs, like the dashboard in order for their jobs to be more organized, efficient, and online so it can be accessed anywhere and stored without too much physical space or labor.
